@@ -4,7 +4,7 @@ Upload the webshell such as behinder or godzilla to target by CVE-2022-22965
 https://github.com/reznok/Spring4Shell-POC
 
 ## Instructions
-1. download spring_onekeyshell
+1. download spring_onekeyshell.py
 2. run the script:
 - `--url` target url
 - `--ws` WebShell File [example.jsp]
